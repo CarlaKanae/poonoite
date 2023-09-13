@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8838f5d8-6c48-46ef-a96f-4c3390c8dc21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploMatriz/exemploMatriz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploMatriz/src/TesteMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploVetor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploVetor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploVetor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploVetor/exemploVetor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula0509/exemploVetor/src/TesteVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Meses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/ExemploOverload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploOverload/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/ExemploPacote.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/src/modelo/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploPacote/src/negocios/AlunoBus.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Meses.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2VJpPm19uw1B3YWlomC7onfof6C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8838f5d8-6c48-46ef-a96f-4c3390c8dc21" name="Changes" comment="" />
+      <created>1694564018070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694564018070</updated>
+      <workItem from="1694564019117" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
