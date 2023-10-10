@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b161d76-bca9-4873-8515-446c1280b9d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Queatao2/src/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queatao2/src/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queatao2/src/Revista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../questao1/src/model/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../questao1/src/model/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2VxDJt8QQhxGdFeNDX1f9tgErV5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,10 +29,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/marcosmoraes/poonoite/prova1/Questao3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,10 +47,15 @@
       <option name="presentableId" value="Default" />
       <updated>1695768770866</updated>
       <workItem from="1695768771917" duration="346000" />
+      <workItem from="1696372235807" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
